@@ -13,8 +13,8 @@ paragraf langsung tulis aja<hr>
 ```ini **bold** ini *italic*```
 ini **bold** ini *italic*<hr>
 
-```***Teks bold sekaligus italis***```
-***Teks bold sekaligus italis***<hr>
+```***Teks bold sekaligus itali***```
+***Teks bold sekaligus itali***<hr>
 
 ```> ini pake blockquotes```
 > ini pake blockquotes
@@ -30,12 +30,15 @@ ini **bold** ini *italic*<hr>
 <hr>
 
 ```![gambar terminal](https://raw.githubusercontent.com/Rahmanr0918/pzn---todolist-with-PHP/refs/heads/main/pict/tahap1.png)```
+
 ![gambar terminal](https://raw.githubusercontent.com/Rahmanr0918/pzn---todolist-with-PHP/refs/heads/main/pict/tahap1.png)
 <hr>
 
 ```tautan ke [youtube](https://www.youtube.com/)```
+
 tautan ke [youtube](https://www.youtube.com/)
 <hr>
 
 ```tautan ke [youtube](https://www.youtube.com/ "iini beneran ke youtube") ada tekst ketika di sorot```
+
 tautan ke [youtube](https://www.youtube.com/ "iini beneran ke youtube") ada tekst ketika di sorot
