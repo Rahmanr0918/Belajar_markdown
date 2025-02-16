@@ -8,7 +8,7 @@ Markdown adalah format teks yang simpel tetapi fleksibel, digunakan untuk dokume
 ```# Judul Level 1```
 # Judul Level 1
 - kalo pagar dibikin 6 artinya level 6
-
+<hr>
 => **BIKIN PARAGRAF**
 
 ```paragraf langsung tulis aja```
